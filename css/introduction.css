@@ -1,0 +1,42 @@
+.ulweiyi{
+    margin-left:-50px;
+    margin-top:-10px;
+}
+.h-5{
+    font-weight:bold !important;
+}
+.youhui dt{
+    color:gray;
+}
+.youhui p,.youhui span{
+    color:red;
+    font-weight:bold;
+}
+.youhui span{
+    margin-left:400px;
+}
+.jiaqian{
+    color:red;
+    font-weight: bold;
+    font-size:1.5rem;
+}
+.mt-m{
+   position: relative;
+    top:-10px;
+}
+.zhejiangsheng{
+    width:86px;
+    height:26px;
+    border:1px solid gray;
+
+}
+.butn{
+    text-align: right !important;
+    border:0;
+    padding:0;
+    margin-left:25px;
+    background:none;
+
+}
+.biancolor {
+}

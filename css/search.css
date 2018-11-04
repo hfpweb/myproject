@@ -1,0 +1,70 @@
+.my_small{
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.waikuang{
+    width:1180px;
+    height:207px;
+    border:2px solid lightgray;
+    margin-left: -10px;
+}
+.wenzibg a{
+    padding:1px 5px;
+}
+.wenzibg a:hover{
+    background: #ffd98c;
+}
+.first{
+    padding:2px 10px !important;
+    border:1px solid gray;
+    color:red;
+}
+.tougao{
+    height:215px;
+}
+.liebiaoshezhi{
+    width:940px;
+    height:35px;
+    border: 1px solid lightgray;
+    margin-left: -10px;
+
+}
+.liebiaoshezhi li{
+    height: 35px;
+    padding:5px 20px 5px 20px;
+    border-right: 1px solid lightgray;
+}
+.liebiaoshezhi li a{
+
+}
+.liebiaoshezhi li:last-child{
+    border: none;
+}
+.jingdian{
+    width:220px;
+    height:35px;
+    border: 1px solid lightgray;
+    text-align: center;
+    line-height: 35px;
+    padding:0 20px;
+    margin:10px 0;
+    position: absolute;
+    right:59px;
+    top:452px;
+    color: red;
+}
+.liebiaotupian div{
+    margin-left:-10px;
+}
+.liebiaotupian div~div{
+    margin-left:22px !important;
+}
+.liebiaotupian img{
+    width:218px;
+}
+.liebiaotupian img:last-child{
+    border:1px solid lightgray;
+}
+.yemayidong{
+    margin-left:850px !important;
+}
